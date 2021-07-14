@@ -6,4 +6,6 @@ to have info about
 How many products are purchased by Customer &
 To generate the Bill.
  
+<img src = "/Images/Starting_preview.jpeg">
 <img src = "/Images/Admin_Menu.jpeg">
+<img src = "/Images/Placing_order.jpeg">
